@@ -28,7 +28,7 @@ function renderContent (content) {
 
 let appState = {
   title: {
-    text: 'React.js 小书',
+    text: 'React.js 小书学习',
     color: 'red',
   },
   content: {
